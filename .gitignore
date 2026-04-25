@@ -1,6 +1,17 @@
 # Project-specific
 .env
 menu_report_*.txt
+.DS_Store
+
+# Milestone PDFs and videos (submitted separately)
+*.pdf
+*.mp4
+
+# Unrelated files from FP Choice
+generate_fp_choice.py
+
+# Backup/full version of scraper
+scrape_menu_full.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
