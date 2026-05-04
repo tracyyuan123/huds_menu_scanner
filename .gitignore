@@ -1,7 +1,0 @@
-.env
-.DS_Store
-__pycache__/
-*.py[codz]
-*.pdf
-*.mp4
-menu_report_*.txt
