@@ -1,0 +1,32 @@
+{
+    "liked_foods": [
+        "chicken",
+        "salmon",
+        "rice",
+        "pasta",
+        "steak",
+        "beef",
+        "dumpling",
+        "noodle",
+        "fry",
+        "soup",
+        "meatball",
+        "curry",
+        "stir fry",
+        "taco",
+        "burrito",
+        "cake",
+        "blueberry"
+    ],
+    "disliked_foods": [
+        "cheese",
+        "beets",
+        "liver"
+    ],
+    "excluded_categories": [
+        "Salad Bar",
+        "From the Grill",
+        "Brown Rice station",
+        "Halal"
+    ]
+}
